@@ -1,4 +1,4 @@
-### Hi there, I'm [Mark!](https://mkdam.nl)
+### Hi there, I'm [Mark!](https://mkdam.nl/)
 
 Hi, my name is Mark van der Dam and I am a passionate Frontend Web Developer
 
@@ -8,7 +8,4 @@ Hi, my name is Mark van der Dam and I am a passionate Frontend Web Developer
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=markvdd&show_icons=true&include_all_commits=true&theme=dracula" alt="Mark van der dam's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markvdd&layout=compact&theme=dracula" />
 </a>
