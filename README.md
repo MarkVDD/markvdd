@@ -9,7 +9,7 @@ I've been coding since I was 15 and have been loving it ever since. I have since
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [mkdam.nl (Fairly outdated)](http://mkdam.nl)
 * ✉️  You can contact me at [markvddam@gmail.com](mailto:markvddam@gmail.com)
-* 🧠  I'm learning Angular & Typescript
+* 🧠  I'm currently learning Angular, Typescript and mobile app development.
 
 ### Skills
 
