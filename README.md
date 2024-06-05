@@ -1,10 +1,10 @@
 Hi 👋 My name is Mark van der Dam
 =================================
 
-Web developer and designer
+Full-stack Developer
 --------------------------
 
-I've been coding since I was 15 and have been loving it ever since. I have since loved working on UI and improving the overall look and feel of a website. I also love doing back-end tasks, writing APIs, complex services, all the sorts.
+Ever since I was 15 years old I have been working on websites, API's, apps, you name it. I love working on the Frontend, making beautiful designs and realising it in code. Same goes for te backend, writing complex logic, API's and services.
 
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [mkdam.nl (Fairly outdated)](http://mkdam.nl)
