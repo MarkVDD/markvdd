@@ -9,7 +9,7 @@ Ever since I was 15 years old I have been working on websites, API's, apps, you 
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [mkdam.nl (Fairly outdated)](http://mkdam.nl)
 * ✉️  You can contact me at [markvddam@gmail.com](mailto:markvddam@gmail.com)
-* 🧠  I'm currently learning Angular, Typescript and mobile app development.
+* 🧠  I'm currently learning Nest.JS, React, Typescript and mobile app development.
 
 ### Skills
 
