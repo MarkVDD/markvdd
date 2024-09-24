@@ -7,7 +7,7 @@ Full-stack Developer
 Ever since I was 15 years old I have been working on websites, API's, apps, you name it. I love working on the Frontend, making beautiful designs and realising it in code. Same goes for te backend, writing complex logic, API's and services.
 
 * 🌍  I'm based in The Netherlands
-* 🖥️  See my portfolio at [mkdam.nl (Fairly outdated)](http://mkdam.nl)
+* 🖥️  See my portfolio at [markvddam.nl](http://markvddam.nl)
 * ✉️  You can contact me at [markvddam@gmail.com](mailto:markvddam@gmail.com)
 * 🧠  I'm currently learning Nest.JS, React, Typescript and mobile app development.
 
