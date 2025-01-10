@@ -9,7 +9,7 @@ Ever since I was 15 years old I have been working on websites, API's, apps, you 
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [markvddam.nl](http://markvddam.nl)
 * ✉️  You can contact me at [markvddam@gmail.com](mailto:markvddam@gmail.com)
-* 🧠  I'm currently learning Next.js, React and TypeScript.
+* 🧠  I'm currently learning Next.js, Svelte and TypeScript.
 
 ### Skills
 
