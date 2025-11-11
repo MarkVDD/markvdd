@@ -7,7 +7,7 @@
 
 I've been building websites, APIs and apps since I was 15.  
 I love crafting beautiful interfaces and bringing them to life in code.  
-Whether it's frontend finesse or backend logic — I enjoy both worlds equally.
+Whether it's frontend finesse or backend logic, I enjoy both worlds equally.
 
 ---
 
