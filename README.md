@@ -19,10 +19,26 @@ Whether it's frontend finesse or backend logic, I enjoy both worlds equally.
 
 ---
 
-### 🐍 GitHub Activity Snake
+### 📊 GitHub Activity
 
-![snake gif](https://github.com/MarkVDD/markvdd/blob/output/github-snake-dark.svg)
+  <p align="center">
+    <img
+      src="https://render.gitanimals.org/lines/MarkVDD"
+            alt="Mark's GitAnimals"
+      width="100%"
+    />
+  </p>
+  <p align="center">
+    <img
+      src="https://raw.githubusercontent.com/MarkVDD/markvdd/output/github-snake-dark.svg"
+      alt="Snake animation of my GitHub contributions"
+      width="100%"
+    />
+  </p>
 
----
+  ---
 
-⭐️ *Thanks for visiting! Feel free to check out my work and connect.*
+  <p align="center">
+    ⭐️ <em>Thanks for visiting! Feel free to check out my work and
+    connect.</em>
+  </p>
